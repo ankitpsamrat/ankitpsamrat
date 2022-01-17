@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://ankitpsamrat.github.io/samrat.github.io/](https://ankitpsamrat.github.io/samrat.github.io/)
+- 👨‍💻 All of my projects are available at [https://ankitpsamrat.github.io/My-Portfolio/](https://ankitpsamrat.github.io/samrat.github.io/)
 
 - 📫 How to reach me **ankit.p.samrat@gmail.com**
 
