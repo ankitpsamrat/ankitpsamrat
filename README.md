@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitpsamrat" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpsamrat?logo=twitter&style=for-the-badge" alt="ankitpsamrat" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ankitpsamrat.github.io/My-Portfolio/](https://ankitpsamrat.github.io/samrat.github.io/)
+- 👨‍💻 All of my projects are available at [https://ankitpsamrat.netlify.app](https://ankitpsamrat.netlify.app)
 
 - 📫 How to reach me **ankit.p.samrat@gmail.com**
 
