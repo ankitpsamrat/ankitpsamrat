@@ -27,7 +27,6 @@ src="https://img.shields.io/github/followers/ankitpsamrat?logo=github&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
@@ -40,10 +39,8 @@ src="https://img.shields.io/github/followers/ankitpsamrat?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
+<a href="https://github.com/ankitpsamrat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-stats.vercel.app/api?username=ankitpsamrat&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="ankitpsamrat's GitHub stats" /></a>
 
 <a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpsamrat&stroke=ffffff&background=581c87&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ankitpsamrat"><img src="https://activity-graph.herokuapp.com/graph?username=ankitpsamrat&bg_color=581c87&color=ffffff&line=facc15&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ankitpsamrat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
