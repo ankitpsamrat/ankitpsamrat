@@ -4,12 +4,13 @@ Hi 👋 I'm Ankit
 Flutter Developer
 -----------------
 
-A passionate developer from India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpsamrat" /> </p>
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [ankit.p.samrat@gmail.com](mailto:ankit.p.samrat@gmail.com)
 * 🧠  I'm currently learning Flutter
 * 🤝  I'm open to collaborating on Flutter & Java
+* ✉️  You can contact me at [ankit.p.samrat@gmail.com](mailto:ankit.p.samrat@gmail.com)
+* 👨‍💻 All of my projects are available at [https://ankitpsamrat.netlify.app](https://ankitpsamrat.netlify.app)
 
 <a href="https://www.twitter.com/ankitpsamrat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ankitpsamrat?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"
@@ -33,14 +34,16 @@ src="https://img.shields.io/github/followers/ankitpsamrat?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ankitpsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ankitpsamrat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat" />
+</a>
 
-<a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-stats.vercel.app/api?username=ankitpsamrat&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="ankitpsamrat's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpsamrat&show_icons=true&locale=en" alt="ankitpsamrat" /></p>
 
-<a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpsamrat&stroke=ffffff&background=581c87&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpsamrat&" alt="ankitpsamrat" /></p>
