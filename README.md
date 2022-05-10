@@ -12,11 +12,6 @@ Flutter Developer
 * ✉️  You can contact me at [ankit.p.samrat@gmail.com](mailto:ankit.p.samrat@gmail.com)
 * 👨‍💻 All of my projects are available at [https://ankitpsamrat.netlify.app](https://ankitpsamrat.netlify.app)
 
-<a href="https://www.twitter.com/ankitpsamrat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ankitpsamrat?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"
-/></a><a href="https://www.github.com/ankitpsamrat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ankitpsamrat?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
-
 ### Skills
 
 <p align="left">
@@ -40,10 +35,8 @@ src="https://img.shields.io/github/followers/ankitpsamrat?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat" />
-</a>
+<a href="https://github.com/ankitpsamrat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpsamrat&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpsamrat&show_icons=true&locale=en" alt="ankitpsamrat" /></p>
+<a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-stats.vercel.app/api?username=ankitpsamrat&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="ankitpsamrat's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpsamrat&" alt="ankitpsamrat" /></p>
+<a href="http://www.github.com/ankitpsamrat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpsamrat&stroke=ffffff&background=1e3a8a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
