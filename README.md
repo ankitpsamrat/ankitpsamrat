@@ -1,13 +1,12 @@
 Hi 👋 I'm Ankit
 ======================
 
-Flutter Developer
+Software Developer
 -----------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpsamrat" /> </p>
 
 * 🌍  I'm based in India
-* 🧠  I'm currently learning Flutter
 * 🤝  I'm open to collaborating on Flutter & Java
 * ✉️  You can contact me at [ankit.p.samrat@gmail.com](mailto:ankit.p.samrat@gmail.com)
 * 👨‍💻 All of my projects are available at [https://ankitpsamrat.netlify.app](https://ankitpsamrat.netlify.app)
